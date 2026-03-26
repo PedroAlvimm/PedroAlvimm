@@ -43,9 +43,4 @@ Estrutura de Dados
 Fundamentos de Inteligência Artificial
 🤝 Vamos nos conectar
 
-📧 (seu e-mail aqui)
-💼 LinkedIn: (seu LinkedIn aqui)
 
-⚡ Diferencial
-
-Minha trajetória fora da tecnologia me trouxe habilidades como disciplina, constância e foco em evolução — que aplico diariamente no meu aprendizado como desenvolvedor.
