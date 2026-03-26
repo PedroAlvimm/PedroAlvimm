@@ -8,7 +8,7 @@ I’m building my journey in tech by developing real-world projects, strengtheni
 Currently focused on becoming a high-level developer, with interests in Artificial Intelligence, system development, and technology-driven solutions.
 
 🌐 Where to find me
-<p align="left"> <a href="https://github.com/PedroAlvimm"> <img src="https://img.shields.io/badge/GitHub-PEDROALVIMM-181717?style=for-the-badge&logo=github" /> </a> <a href="https://linkedin.com/in/SEU-LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-PEDRO%20ALVIM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:SEUEMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://github.com/PedroAlvimm"> <img src="https://img.shields.io/badge/GitHub-PEDROALVIMM-181717?style=for-the-badge&logo=github" /> </a> <a href="www.linkedin.com/in/pedro-augusto-23b335199"> <img src="https://img.shields.io/badge/LinkedIn-PEDRO%20ALVIM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="pedroreis55alvim@gmail.com"> <img src="https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 🧠 What I do
 💻 Learning and building with Java
 🧩 Practicing Object-Oriented Programming (OOP)
