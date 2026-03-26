@@ -1,46 +1,40 @@
-#👨‍💻 Pedro Alvim
+Hi 👋, I'm Pedro Alvim
 
-🎓 Estudante de Tecnologia da Informação
-💻 Desenvolvedor em formação
-🤖 Interessado em Inteligência Artificial
+🚀 Software Developer in Progress | Java & AI Enthusiast
+🇧🇷 Brazil
 
-🚀 Sobre mim
+I’m building my journey in tech by developing real-world projects, strengthening my foundation in programming, logic, and software development.
 
-Sou estudante de Tecnologia da Informação, em constante evolução, com foco em desenvolvimento de software e interesse especial em Inteligência Artificial.
+Currently focused on becoming a high-level developer, with interests in Artificial Intelligence, system development, and technology-driven solutions.
 
-Atualmente, estou construindo minha base sólida em programação, algoritmos e boas práticas de desenvolvimento, buscando sempre aplicar o conhecimento em projetos práticos.
+🌐 Where to find me
+<p align="left"> <a href="https://github.com/PedroAlvimm"> <img src="https://img.shields.io/badge/GitHub-PEDROALVIMM-181717?style=for-the-badge&logo=github" /> </a> <a href="https://linkedin.com/in/SEU-LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-PEDRO%20ALVIM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:SEUEMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+🧠 What I do
+💻 Learning and building with Java
+🧩 Practicing Object-Oriented Programming (OOP)
+📚 Studying Data Structures and Algorithms
+🤖 Exploring Artificial Intelligence concepts
+⚙️ Creating practical projects to solve real problems
+📈 Constantly improving my problem-solving skills
+🛠️ Tech Stack
 
-Tenho perfil disciplinado, analítico e orientado à resolução de problemas — características que trago da minha experiência profissional anterior.
+📊 GitHub Stats
+<p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroAlvimm&show_icons=true&theme=tokyonight&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlvimm&layout=compact&theme=tokyonight" /> </p>
+🚀 Current Projects
+🏋️ Gym Workout Generator (Java)
+📚 Java practice exercises repository
+💡 Future ideas involving AI + fitness
+🎯 Goals
+Become a professional software developer
+Master Java and backend development
+Work with Artificial Intelligence
+Build impactful and scalable projects
+Achieve international career opportunities 🌍
+🚀 Philosophy
 
-🛠️ Tecnologias e Ferramentas
-Linguagens: Java (principal), Python (básico)
-Versionamento: Git e GitHub
-Fundamentos: Lógica de Programação, Algoritmos
-Em aprendizado:
-Estrutura de Dados
-Programação Orientada a Objetos (POO)
-Inteligência Artificial
-📌 Projetos
+"Consistency beats talent. Small daily progress builds great developers."
 
-🔹 Gerador de Treino de Academia (Java)
-Projeto que integra lógica de programação com uma aplicação real, gerando treinos personalizados.
-
-🔹 Exercícios e práticas em Java
-Repositório com exercícios resolvidos para fixação de lógica e POO.
-
-🔹 Projetos acadêmicos
-Atividades desenvolvidas durante a graduação em TI.
-
-📈 Objetivos na Tecnologia
-Desenvolver projetos cada vez mais complexos
-Dominar Java e expandir para outras linguagens
-Trabalhar com desenvolvimento de software e/ou IA
-Conquistar oportunidades na área de tecnologia (estágio/júnior)
-📚 Atualmente estudando
-Programação em Java
-Git e GitHub (versionamento e colaboração)
-Estrutura de Dados
-Fundamentos de Inteligência Artificial
-🤝 Vamos nos conectar
+⭐ If you like my journey, follow and check my projects
+🤝 Open to connections, collaborations, and opportunities
 
 
