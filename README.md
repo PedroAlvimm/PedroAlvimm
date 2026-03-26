@@ -1,4 +1,4 @@
-##👨‍💻 Pedro Alvim
+#👨‍💻 Pedro Alvim
 
 🎓 Estudante de Tecnologia da Informação
 💻 Desenvolvedor em formação
