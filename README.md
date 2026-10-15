@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Pedro Alvim</h1>
 
 <p align="left">
-  🚀 Software Developer in Progress | Java & AI Enthusiast<br>
+  🚀 Software Developer in Progress | Python & AI Enthusiast<br>
   🇧🇷 Based in Brazil
 </p>
 
